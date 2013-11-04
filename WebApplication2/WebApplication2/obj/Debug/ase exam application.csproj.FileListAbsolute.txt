@@ -1,0 +1,9 @@
+\\kc.umkc.edu\kc-users\home\a\an5kc\My Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+\\kc.umkc.edu\kc-users\home\a\an5kc\My Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+\\kc.umkc.edu\kc-users\home\a\an5kc\My Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\ResolveAssemblyReference.cache
+\\kc.umkc.edu\kc-users\home\a\an5kc\My Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+\\kc.umkc.edu\kc-users\home\a\an5kc\My Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\JAY\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\JAY\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\JAY\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\JAY\Documents\Visual Studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
